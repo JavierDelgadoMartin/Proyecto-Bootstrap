@@ -296,7 +296,7 @@ p {
 .fh5co-main-nav .fh5co-logo {
   vertical-align: middle;
   float: left;
-  line-height: 0;
+  line-height: 0.8;
 }
 .fh5co-main-nav .fh5co-menu-1 a,
 .fh5co-main-nav .fh5co-menu-2 a,
@@ -333,7 +333,7 @@ p {
 .fh5co-main-nav .fh5co-logo {
   text-align: center;
   width: 19.33%;
-  font-size: 40px;
+  font-size: 35px;
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-style: italic;

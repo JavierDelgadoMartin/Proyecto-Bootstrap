@@ -53,8 +53,8 @@
 	}
 
 	var offcanvasMenu = function() {
-		$('body').prepend('<div id="fh5co-offcanvas" />');
-		$('body').prepend('<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>');
+		$('.menu-movil').prepend('<div id="fh5co-offcanvas" />');
+		$('.menu-movil').prepend('<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>');
 
 		$('.fh5co-main-nav .fh5co-menu-1 a, .fh5co-main-nav .fh5co-menu-2 a').each(function(){
 
@@ -115,11 +115,11 @@
 	// Burger Menu
 	var burgerMenu = function() {
 
-		$('body').on('click', '.js-fh5co-nav-toggle', function(event){
+		$('.menu-movil').on('click', '.js-fh5co-nav-toggle', function(event){
 
 			var $this = $(this);
 
-			$('body').toggleClass('fh5co-overflow offcanvas-visible');
+			$('.menu-movil').toggleClass('fh5co-overflow offcanvas-visible');
 			$this.toggleClass('active');
 			event.preventDefault();
 

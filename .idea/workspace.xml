@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881d1725-6b48-484c-bcba-602396dd1d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Grilled-Chicken.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Proyecto Bootstrap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35517243">
-              <caret line="633" column="0" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.32586208">
+              <caret line="632" column="10" selection-start-line="632" selection-start-column="10" selection-end-line="632" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -300,7 +300,13 @@
       <option name="project" value="LOCAL" />
       <updated>1487101945653</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="subida de imagen">
+      <created>1487103407018</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1487103407018</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,7 +357,8 @@
     <MESSAGE value="..." />
     <MESSAGE value="cambiada estructura, estilos y comportamiento" />
     <MESSAGE value="modificado contenido y estilo" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificado contenido y estilo" />
+    <MESSAGE value="subida de imagen" />
+    <option name="LAST_COMMIT_MESSAGE" value="subida de imagen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -400,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35517243">
-          <caret line="633" column="0" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.32586208">
+          <caret line="632" column="10" selection-start-line="632" selection-start-column="10" selection-end-line="632" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />

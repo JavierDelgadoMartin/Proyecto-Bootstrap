@@ -417,7 +417,7 @@ p {
 }
 @media screen and (max-width: 1200px) {
   #fh5co-about .fh5co-text {
-    padding: 1em;
+    padding: 3em;
   }
 }
 #fh5co-about .fh5co-text .btn {
@@ -482,7 +482,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-sayings {
-    padding: 5em 0;
+    padding: 7em 0;
   }
 }
 #fh5co-sayings .flexslider .slides li {
@@ -551,7 +551,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
-    padding: 5em 0;
+    padding: 7em 0;
   }
 }
 #fh5co-featured .fh5co-heading .heading {
@@ -772,7 +772,7 @@ p {
 }
 
 #fh5co-menus{
-  padding: 4em 0;
+  padding: 7em 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -946,7 +946,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-events {
-    padding: 5em 0;
+    padding: 7em 0;
   }
 }
 #fh5co-events .fh5co-event {
@@ -1008,7 +1008,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-contact {
-    padding: 5em 0;
+    padding: 7em 0;
   }
 }
 #fh5co-contact h3 {
@@ -1071,7 +1071,7 @@ p {
 #fh5co-footer {
   width: 100%;
   background: rgba(0, 0, 0, 0.9);
-  padding: 7em 0;
+  padding: 3em 0;
   z-index: 1;
   font-size: 14px;
   line-height: 1.5;
@@ -1079,8 +1079,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer {
-
-    padding: 5em 0;
+    padding: 7em 0;
   }
 }
 @media screen and (max-width: 480px) {

@@ -367,9 +367,9 @@ p {
   content: "";
   position: absolute;
   bottom: 0;
-  width: 40px;
+  width: 150px;
   height: 2px;
-  left: 50%;
+  left: 42%;
   background: #fb6e14;
   margin-left: -20px;
 }
@@ -430,9 +430,9 @@ p {
   content: "";
   position: absolute;
   bottom: 0;
-  width: 40px;
+  width: 82px;
   height: 2px;
-  left: 50%;
+  left: 47%;
   background: #fb6e14;
   margin-left: -20px;
 }

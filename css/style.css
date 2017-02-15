@@ -1,3 +1,7 @@
+.localizacion{
+  height: 500px;
+}
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -11,7 +15,8 @@ body {
   font-weight: 300;
   line-height: 2;
   color: #5e493a;
-  background-image: url("../images/fondo.jpg");
+  background: url("../images/fondo.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 body.fh5co-overflow {
   overflow-x: auto;
@@ -762,10 +767,14 @@ p {
     bottom: inherit;
   }
 }
+#fh5co-contact{
+  color: #fb6e14 !important;
+}
 
-#fh5co-menus {
+#fh5co-menus{
   padding: 4em 0;
 }
+
 @media screen and (max-width: 768px) {
   #fh5co-menus {
     padding: 5em 0;
@@ -893,6 +902,16 @@ p {
   background-attachment: fixed;
   position: relative;
 }
+
+.comentario{
+  margin-left: 20%;
+}
+
+.comentario>h3{
+  color:white !important;
+  text-align: center;
+}
+
 #fh5co-events > .fh5co-overlay {
   position: absolute;
   top: 0;
@@ -1060,6 +1079,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer {
+
     padding: 5em 0;
   }
 }
